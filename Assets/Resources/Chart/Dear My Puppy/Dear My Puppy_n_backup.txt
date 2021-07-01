@@ -1,0 +1,84 @@
+exrave chart file v1
+
+Title Dear My Puppy
+Artist Shiha
+
+== BPMData ==
+InitalBPM 170
+Offset 0.105
+
+
+== NoteData ==
+NormalNote beat:0 face:3 key:2
+NormalNote beat:8 face:3 key:2
+NormalNote beat:16 face:3 key:2
+NormalNote beat:24 face:3 key:1
+NormalNote beat:28 face:3 key:2
+NormalNote beat:44 face:3 key:1
+NormalNote beat:48 face:3 key:1
+NormalNote beat:48 face:3 key:2
+NormalNote beat:60 face:3 key:2
+NormalNote beat:92 face:3 key:2
+NormalNote beat:160 face:3 key:2
+NormalNote beat:176 face:3 key:2
+NormalNote beat:188 face:2 key:1
+NormalNote beat:191 face:3 key:2
+NormalNote beat:191 face:3 key:1
+NormalNote beat:192 face:3 key:2
+NormalNote beat:192 face:3 key:1
+LongNote beat:208 face:3 key:1 end:210
+LongNote beat:212 face:3 key:1 end:214
+LongNote beat:214 face:3 key:2 end:216
+NormalNote beat:216 face:3 key:1
+LongNote beat:220 face:3 key:1 end:223
+NormalNote beat:224 face:3 key:2
+NormalNote beat:32 face:1 key:2
+NormalNote beat:36 face:1 key:1
+NormalNote beat:40 face:4 key:2
+NormalNote beat:52 face:3 key:2
+NormalNote beat:56 face:3 key:2
+NormalNote beat:60 face:3 key:1
+NormalNote beat:64 face:3 key:2
+NormalNote beat:64 face:4 key:2
+NormalNote beat:72 face:3 key:2
+NormalNote beat:72 face:3 key:1
+NormalNote beat:80 face:3 key:2
+NormalNote beat:80 face:3 key:1
+NormalNote beat:88 face:3 key:1
+NormalNote beat:88 face:4 key:2
+NormalNote beat:92 face:2 key:1
+LongNote beat:96 face:3 key:2 end:104
+NormalNote beat:104 face:3 key:1
+NormalNote beat:112 face:3 key:2
+NormalNote beat:121 face:3 key:2
+NormalNote beat:124 face:3 key:1
+LongNote beat:124 face:3 key:2 end:128
+NormalNote beat:128 face:3 key:1
+SlideNote beat:136 face:3 pos:-2.035928
+SlideNote beat:136.25 face:3 pos:-1.039999
+SlideNote beat:136.5 face:3 pos:0.08450639
+SlideNote beat:136.75 face:3 pos:1.209303
+SlideNote beat:137 face:3 pos:2.464001
+NormalNote beat:56 face:4 key:2
+SlideNote beat:144 face:3 pos:2.079366
+SlideNote beat:144.25 face:3 pos:1.026549
+SlideNote beat:144.5 face:3 pos:-0.3546795
+SlideNote beat:144.75 face:3 pos:-1.472528
+SlideNote beat:145 face:3 pos:-2.472728
+SlideNote beat:152 face:3 pos:-2.601227
+SlideNote beat:152.25 face:3 pos:-1.513513
+SlideNote beat:152.5 face:3 pos:-0.3333336
+SlideNote beat:152.75 face:3 pos:0.8307706
+SlideNote beat:153 face:3 pos:2.098361
+SlideNote beat:156 face:3 pos:2.327274
+SlideNote beat:156.25 face:3 pos:0.9719635
+SlideNote beat:156.5 face:3 pos:-0.120001
+SlideNote beat:156.75 face:3 pos:-1.389473
+SlideNote beat:157 face:3 pos:-2.533334
+NormalNote beat:168 face:3 key:2
+NormalNote beat:176 face:4 key:1
+NormalNote beat:184 face:3 key:2
+NormalNote beat:184 face:3 key:1
+NormalNote beat:188 face:2 key:2
+NormalNote beat:200 face:3 key:2
+NormalNote beat:200 face:3 key:1

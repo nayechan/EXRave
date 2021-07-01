@@ -1,0 +1,52 @@
+{
+  "Items": [
+    {
+      "title": "Dear My Puppy",
+      "artist": "Shiha",
+      "normal": 1,
+      "hard": 5,
+      "ex": -1,
+      "rave": -1
+    },
+    {
+      "title": "Happy End",
+      "artist": "Cansol",
+      "normal": 6,
+      "hard": 9,
+      "ex": -1,
+      "rave": -1
+    },
+    {
+      "title": "Frozen Spirit",
+      "artist": "Shiha",
+      "normal": 3,
+      "hard": 6,
+      "ex": -1,
+      "rave": -1
+    },
+    {
+      "title": "Empty Galaxy",
+      "artist": "Calixer",
+      "normal": 8,
+      "hard": 12,
+      "ex": 15,
+      "rave": 17
+    },
+    {
+      "title": "Darklight",
+      "artist": "Shiha",
+      "normal": -1,
+      "hard": -1,
+      "ex": 13,
+      "rave": -1
+    },
+    {
+      "title": "Crystal Silhouette",
+      "artist": "Calixer",
+      "normal": -1,
+      "hard": -1,
+      "ex": 15,
+      "rave": -1
+    }
+  ]
+}

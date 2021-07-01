@@ -1,0 +1,358 @@
+exrave chart file v1
+
+Title Frozen Spirit
+Artist Shiha
+
+== BPMData ==
+InitalBPM 143
+Offset 0
+
+
+== NoteData ==
+NormalNote beat:0 face:3 key:1
+NormalNote beat:1 face:2 key:2
+SlideNote beat:2 face:2 pos:2.508473
+SlideNote beat:2.5 face:2 pos:2.016527
+SlideNote beat:3 face:2 pos:0.7999994
+SlideNote beat:3.5 face:2 pos:-0.1008409
+SlideNote beat:4 face:2 pos:-1.171272
+SlideNote beat:4.5 face:2 pos:-1.788621
+SlideNote beat:5 face:2 pos:-2.720001
+SlideNote beat:5.5 face:2 pos:-1.511113
+LongNote beat:6 face:2 key:1 end:9
+SlideNote beat:10 face:3 pos:0.4263959
+SlideNote beat:10.5 face:3 pos:2.319329
+SlideNote beat:11 face:3 pos:1.398374
+SlideNote beat:11.5 face:3 pos:-0.9395978
+SlideNote beat:12 face:3 pos:-2.45926
+SlideNote beat:12.5 face:3 pos:-1.570371
+SlideNote beat:13 face:3 pos:0.2068959
+SlideNote beat:13.5 face:3 pos:2.122448
+LongNote beat:14 face:3 key:2 end:17
+NormalNote beat:16 face:2 key:2
+NormalNote beat:17 face:2 key:1
+SlideNote beat:18 face:2 pos:2.723925
+SlideNote beat:18.5 face:2 pos:1.390069
+SlideNote beat:19 face:2 pos:0.4545431
+SlideNote beat:19.5 face:2 pos:-1.402597
+SlideNote beat:20 face:3 pos:1.90909
+SlideNote beat:20.5 face:3 pos:0.159999
+SlideNote beat:21 face:3 pos:-1.858267
+SlideNote beat:21.5 face:3 pos:-0.2608687
+LongNote beat:22 face:3 key:1 end:25
+SlideNote beat:26 face:3 pos:-0.3789479
+SlideNote beat:26.5 face:3 pos:2.167939
+SlideNote beat:27 face:3 pos:0.3636364
+SlideNote beat:27.5 face:3 pos:-2.625
+SlideNote beat:28 face:2 pos:2.289653
+SlideNote beat:28.5 face:2 pos:1.308409
+SlideNote beat:29 face:2 pos:0.2758611
+SlideNote beat:29.5 face:2 pos:-0.8849576
+LongNote beat:30 face:2 key:2 end:33
+NormalNote beat:32 face:3 key:1
+NormalNote beat:33 face:3 key:2
+SlideNote beat:34 face:2 pos:2.245613
+SlideNote beat:35.5 face:2 pos:-2.146341
+SlideNote beat:36 face:2 pos:0.06896341
+SlideNote beat:36.5 face:2 pos:-1.848741
+SlideNote beat:37 face:2 pos:0.05633688
+SlideNote beat:37.5 face:2 pos:1.37815
+SlideNote beat:35 face:2 pos:-0.643358
+SlideNote beat:34.5 face:2 pos:1.15481
+LongNote beat:38 face:2 key:1 end:41
+LongNote beat:38 face:3 key:1 end:41
+SlideNote beat:42 face:3 pos:-2.494624
+SlideNote beat:42.5 face:3 pos:-1.037038
+SlideNote beat:43 face:3 pos:0.7058824
+SlideNote beat:43.5 face:3 pos:2.323809
+SlideNote beat:44 face:3 pos:0.4666665
+SlideNote beat:44.5 face:3 pos:2.146342
+SlideNote beat:45 face:3 pos:-0.08510602
+SlideNote beat:45.5 face:3 pos:-1.692308
+LongNote beat:46 face:3 key:2 end:49
+LongNote beat:46 face:2 key:2 end:49
+SlideNote beat:50.5 face:2 pos:1.356519
+SlideNote beat:51 face:2 pos:-0.03539741
+SlideNote beat:51.5 face:2 pos:-1.457947
+SlideNote beat:52.5 face:3 pos:-1.043478
+SlideNote beat:53 face:3 pos:1.565216
+SlideNote beat:53.5 face:3 pos:-5.960464E-07
+LongNote beat:54 face:3 key:1 end:57
+LongNote beat:54 face:2 key:2 end:57
+SlideNote beat:58 face:2 pos:2.369426
+SlideNote beat:58.5 face:2 pos:1.666666
+SlideNote beat:59 face:2 pos:0.8141581
+SlideNote beat:59.5 face:2 pos:-0.4297533
+SlideNote beat:60 face:2 pos:-2.191306
+SlideNote beat:60.5 face:2 pos:-0.1454551
+SlideNote beat:61 face:2 pos:-1.50459
+SlideNote beat:61.5 face:2 pos:-0.5984266
+LongNote beat:62 face:2 key:2 end:63
+NormalNote beat:64 face:2 key:2
+NormalNote beat:65 face:2 key:1
+SlideNote beat:58 face:3 pos:-2.369426
+SlideNote beat:58.5 face:3 pos:-1.666666
+SlideNote beat:59 face:3 pos:-0.8141581
+SlideNote beat:59.5 face:3 pos:0.4297533
+SlideNote beat:60 face:3 pos:2.191306
+SlideNote beat:60.5 face:3 pos:0.1454551
+SlideNote beat:61 face:3 pos:1.50459
+SlideNote beat:61.5 face:3 pos:0.5984266
+LongNote beat:62 face:3 key:1 end:65
+SlideNote beat:66 face:1 pos:-2.242424
+SlideNote beat:66.5 face:1 pos:-1.142858
+SlideNote beat:67 face:1 pos:0.08333242
+SlideNote beat:67.5 face:1 pos:2.20155
+SlideNote beat:68 face:1 pos:0.8503925
+SlideNote beat:68.5 face:1 pos:2.165139
+SlideNote beat:69 face:1 pos:1.052633
+SlideNote beat:69.5 face:1 pos:-0.06779635
+LongNote beat:70 face:1 key:1 end:73
+SlideNote beat:74 face:4 pos:2.588234
+SlideNote beat:74.5 face:4 pos:1.261537
+SlideNote beat:75 face:4 pos:-0.4033613
+SlideNote beat:75.5 face:4 pos:-2.281482
+SlideNote beat:76 face:4 pos:-0.5600005
+SlideNote beat:76.5 face:4 pos:-2.122449
+SlideNote beat:77 face:4 pos:-0.6666677
+SlideNote beat:77.5 face:4 pos:0.5217373
+LongNote beat:78 face:4 key:2 end:81
+SlideNote beat:82 face:4 pos:2.536584
+SlideNote beat:82.5 face:4 pos:0.9113909
+SlideNote beat:83 face:4 pos:-1.09804
+SlideNote beat:83.5 face:4 pos:-2.576273
+SlideNote beat:84 face:3 pos:-2.562501
+SlideNote beat:84.5 face:3 pos:-1.352113
+SlideNote beat:85 face:3 pos:0.2926836
+SlideNote beat:85.5 face:3 pos:1.714285
+LongNote beat:86 face:3 key:1 end:89
+SlideNote beat:90 face:1 pos:-2.357895
+SlideNote beat:90.5 face:1 pos:-0.6666671
+SlideNote beat:91 face:1 pos:1.00813
+SlideNote beat:91.5 face:1 pos:2.385322
+SlideNote beat:92 face:2 pos:2.199999
+SlideNote beat:92.5 face:2 pos:0.9523786
+SlideNote beat:93 face:2 pos:-0.1568639
+SlideNote beat:93.5 face:2 pos:-1.999999
+LongNote beat:94 face:2 key:2 end:97
+NormalNote beat:96 face:3 key:2
+NormalNote beat:97 face:4 key:1
+SlideNote beat:98.5 face:1 pos:-0.9374996
+SlideNote beat:99 face:1 pos:0.4444447
+SlideNote beat:99.5 face:1 pos:2.31579
+SlideNote beat:100 face:1 pos:0.8888881
+SlideNote beat:100.5 face:1 pos:2.400001
+SlideNote beat:101 face:1 pos:0.6476173
+SlideNote beat:101.5 face:1 pos:-0.8148152
+LongNote beat:102 face:1 key:1 end:105
+SlideNote beat:114 face:4 pos:2.372092
+SlideNote beat:114.5 face:4 pos:0.5217382
+SlideNote beat:115 face:4 pos:-1.983742
+SlideNote beat:115.5 face:4 pos:-1.313434
+SlideNote beat:116 face:4 pos:-0.5547444
+SlideNote beat:116.5 face:4 pos:-0.02836978
+SlideNote beat:117 face:4 pos:0.5714271
+SlideNote beat:117.5 face:4 pos:1.131033
+LongNote beat:102 face:3 key:1 end:105
+SlideNote beat:106 face:3 pos:-2.343196
+SlideNote beat:106.5 face:3 pos:-0.4970423
+SlideNote beat:107 face:3 pos:1.02564
+SlideNote beat:107.5 face:3 pos:2.742857
+SlideNote beat:108 face:3 pos:0.6285712
+SlideNote beat:108.5 face:3 pos:2.569106
+SlideNote beat:109 face:3 pos:0.8615383
+SlideNote beat:109.5 face:3 pos:-1.214285
+LongNote beat:110 face:3 key:2 end:113
+SlideNote beat:98 face:1 pos:-2.236557
+SlideNote beat:122 face:2 pos:2.585364
+SlideNote beat:122.5 face:2 pos:1.225804
+SlideNote beat:123 face:2 pos:-0.1652899
+SlideNote beat:123.5 face:2 pos:-1.333334
+SlideNote beat:124 face:2 pos:-2.336001
+SlideNote beat:124.5 face:2 pos:-1.250002
+SlideNote beat:125 face:2 pos:0.2239977
+SlideNote beat:125.5 face:2 pos:1.619833
+LongNote beat:118 face:2 key:1 end:121
+LongNote beat:118 face:4 key:2 end:121
+LongNote beat:126 face:4 key:1 end:129
+LongNote beat:126 face:2 key:2 end:127
+NormalNote beat:128 face:2 key:1
+NormalNote beat:129 face:1 key:2
+SlideNote beat:130 face:2 pos:-0.2666682
+SlideNote beat:130.5 face:2 pos:1.333331
+SlideNote beat:131 face:2 pos:2.666666
+SlideNote beat:131.5 face:2 pos:0.7359985
+SlideNote beat:132.5 face:2 pos:0.4892074
+SlideNote beat:133 face:2 pos:1.055999
+SlideNote beat:133.5 face:2 pos:2.495725
+SlideNote beat:134 face:1 pos:-0.937799
+SlideNote beat:134.5 face:1 pos:0.1684223
+SlideNote beat:135.5 face:1 pos:2.173913
+SlideNote beat:135 face:1 pos:1.100001
+SlideNote beat:136.5 face:2 pos:-0.3841816
+SlideNote beat:137 face:2 pos:0.7999988
+SlideNote beat:137.5 face:2 pos:2.385319
+SlideNote beat:138 face:1 pos:-0.4266655
+SlideNote beat:138.5 face:1 pos:0.3851862
+SlideNote beat:139 face:1 pos:1.142857
+SlideNote beat:139.5 face:1 pos:2.206896
+SlideNote beat:140.5 face:2 pos:-0.1493779
+SlideNote beat:141 face:2 pos:1.12977
+SlideNote beat:141.5 face:2 pos:2.588233
+SlideNote beat:142 face:1 pos:-0.5333329
+SlideNote beat:142.5 face:1 pos:0.2985083
+SlideNote beat:143 face:1 pos:1.128205
+SlideNote beat:143.5 face:1 pos:2.135923
+SlideNote beat:144.5 face:2 pos:0.5373112
+SlideNote beat:145 face:2 pos:-0.3692315
+SlideNote beat:145.5 face:2 pos:-1.422226
+SlideNote beat:146 face:3 pos:-2.043165
+SlideNote beat:146.5 face:3 pos:-0.9230777
+SlideNote beat:147 face:3 pos:0.3636357
+SlideNote beat:147.5 face:3 pos:1.953489
+SlideNote beat:148.5 face:3 pos:0.67027
+SlideNote beat:149 face:3 pos:-0.7586213
+SlideNote beat:149.5 face:3 pos:-2.142857
+SlideNote beat:150 face:4 pos:0.7619039
+SlideNote beat:150.5 face:4 pos:0.06060469
+SlideNote beat:151 face:4 pos:-0.9090923
+SlideNote beat:151.5 face:4 pos:-2.019804
+SlideNote beat:152.5 face:3 pos:0.5393254
+SlideNote beat:153 face:3 pos:-0.7567571
+SlideNote beat:153.5 face:3 pos:-2.415842
+SlideNote beat:154 face:3 pos:-2.258503
+SlideNote beat:154.5 face:3 pos:-0.5070425
+SlideNote beat:155.5 face:3 pos:-0.5000004
+SlideNote beat:156.5 face:3 pos:0.6419746
+SlideNote beat:157 face:3 pos:1.620252
+SlideNote beat:157.5 face:3 pos:0.6027399
+SlideNote beat:158 face:3 pos:-1.352518
+LongNote beat:162 face:2 key:2 end:169
+LongNote beat:170 face:4 key:1 end:177
+LongNote beat:178 face:1 key:2 end:185
+LongNote beat:186 face:3 key:1 end:193
+NormalNote beat:194 face:2 key:1
+NormalNote beat:202 face:3 key:2
+NormalNote beat:210 face:2 key:1
+NormalNote beat:218 face:3 key:2
+NormalNote beat:226 face:3 key:1
+NormalNote beat:226 face:2 key:2
+NormalNote beat:234 face:1 key:1
+NormalNote beat:234 face:4 key:2
+NormalNote beat:242 face:3 key:2
+NormalNote beat:242 face:2 key:1
+NormalNote beat:250 face:4 key:1
+NormalNote beat:250 face:1 key:2
+NormalNote beat:258 face:3 key:1
+NormalNote beat:262 face:3 key:2
+NormalNote beat:264 face:3 key:1
+NormalNote beat:266 face:2 key:2
+NormalNote beat:272 face:2 key:1
+NormalNote beat:274 face:4 key:1
+NormalNote beat:282 face:1 key:2
+SlideNote beat:290 face:2 pos:-1.055557
+SlideNote beat:290.5 face:2 pos:0.1499991
+SlideNote beat:291 face:2 pos:2.274508
+SlideNote beat:291.5 face:2 pos:-0.519776
+SlideNote beat:292.5 face:2 pos:0.1142833
+SlideNote beat:293 face:2 pos:1.437498
+SlideNote beat:293.5 face:2 pos:2.074073
+SlideNote beat:294 face:2 pos:2.469944
+SlideNote beat:294.5 face:2 pos:1.69784
+SlideNote beat:295 face:2 pos:0.8467144
+SlideNote beat:295.5 face:2 pos:0.08888721
+SlideNote beat:296.5 face:2 pos:-0.3943671
+SlideNote beat:297 face:2 pos:0.5142843
+SlideNote beat:297.5 face:2 pos:1.567566
+SlideNote beat:298 face:2 pos:2.618703
+SlideNote beat:298.5 face:2 pos:2.330934
+SlideNote beat:299 face:2 pos:1.507245
+SlideNote beat:299.5 face:2 pos:0.4210514
+SlideNote beat:300.5 face:2 pos:-0.3259258
+SlideNote beat:301 face:2 pos:0.8925611
+SlideNote beat:301.5 face:2 pos:2.357142
+SlideNote beat:302 face:2 pos:2.27586
+SlideNote beat:302.5 face:2 pos:1.442622
+SlideNote beat:303 face:2 pos:0.8503916
+SlideNote beat:303.5 face:2 pos:0.2499988
+SlideNote beat:304.5 face:2 pos:1.687859
+SlideNote beat:305 face:2 pos:0.6428552
+SlideNote beat:305.5 face:2 pos:-0.350877
+SlideNote beat:306 face:2 pos:1.292306
+SlideNote beat:306.5 face:2 pos:0.4067777
+SlideNote beat:307 face:2 pos:-0.4369755
+SlideNote beat:307.5 face:2 pos:-1.857143
+SlideNote beat:308.5 face:2 pos:-0.2517483
+SlideNote beat:309 face:2 pos:0.5547439
+SlideNote beat:309.5 face:2 pos:1.279999
+SlideNote beat:310 face:2 pos:1.316455
+SlideNote beat:310.5 face:2 pos:0.5562898
+SlideNote beat:311 face:2 pos:-0.4383574
+SlideNote beat:311.5 face:2 pos:-1.714287
+SlideNote beat:313 face:2 pos:-0.1690142
+SlideNote beat:312.5 face:2 pos:-1.9187
+SlideNote beat:313.5 face:2 pos:1.409521
+SlideNote beat:314 face:2 pos:1.650792
+SlideNote beat:314.5 face:2 pos:0.4963479
+SlideNote beat:315.5 face:2 pos:0.3835609
+SlideNote beat:316.5 face:2 pos:-0.6557369
+SlideNote beat:317 face:2 pos:-2.451617
+SlideNote beat:317.5 face:2 pos:-0.4536095
+SlideNote beat:318 face:2 pos:1.032257
+NormalNote beat:320 face:2 key:1
+SlideNote beat:290 face:3 pos:1.055557
+SlideNote beat:290.5 face:3 pos:-0.1499991
+SlideNote beat:291 face:3 pos:-2.274508
+SlideNote beat:291.5 face:3 pos:0.519776
+SlideNote beat:292.5 face:3 pos:-0.1142833
+SlideNote beat:293 face:3 pos:-1.437498
+SlideNote beat:293.5 face:3 pos:-2.074073
+SlideNote beat:294 face:3 pos:-2.469944
+SlideNote beat:294.5 face:3 pos:-1.69784
+SlideNote beat:295 face:3 pos:-0.8467144
+SlideNote beat:295.5 face:3 pos:-0.08888721
+SlideNote beat:296.5 face:3 pos:0.3943671
+SlideNote beat:297 face:3 pos:-0.5142843
+SlideNote beat:297.5 face:3 pos:-1.567566
+SlideNote beat:298 face:3 pos:-2.618703
+SlideNote beat:298.5 face:3 pos:-2.330934
+SlideNote beat:299 face:3 pos:-1.507245
+SlideNote beat:299.5 face:3 pos:-0.4210514
+SlideNote beat:300.5 face:3 pos:0.3259258
+SlideNote beat:301 face:3 pos:-0.8925611
+SlideNote beat:301.5 face:3 pos:-2.357142
+SlideNote beat:302 face:3 pos:-2.27586
+SlideNote beat:302.5 face:3 pos:-1.442622
+SlideNote beat:303 face:3 pos:-0.8503916
+SlideNote beat:303.5 face:3 pos:-0.2499988
+SlideNote beat:304.5 face:3 pos:-1.687859
+SlideNote beat:305 face:3 pos:-0.6428552
+SlideNote beat:305.5 face:3 pos:0.350877
+SlideNote beat:306 face:3 pos:-1.292306
+SlideNote beat:306.5 face:3 pos:-0.4067777
+SlideNote beat:307 face:3 pos:0.4369755
+SlideNote beat:307.5 face:3 pos:1.857143
+SlideNote beat:308.5 face:3 pos:0.2517483
+SlideNote beat:309 face:3 pos:-0.5547439
+SlideNote beat:309.5 face:3 pos:-1.279999
+SlideNote beat:310 face:3 pos:-1.316455
+SlideNote beat:310.5 face:3 pos:-0.5562898
+SlideNote beat:311 face:3 pos:0.4383574
+SlideNote beat:311.5 face:3 pos:1.714287
+SlideNote beat:313 face:3 pos:0.1690142
+SlideNote beat:312.5 face:3 pos:1.9187
+SlideNote beat:313.5 face:3 pos:-1.409521
+SlideNote beat:314 face:3 pos:-1.650792
+SlideNote beat:314.5 face:3 pos:-0.4963479
+SlideNote beat:315.5 face:3 pos:-0.3835609
+SlideNote beat:316.5 face:3 pos:0.6557369
+SlideNote beat:317 face:3 pos:2.451617
+SlideNote beat:317.5 face:3 pos:0.4536095
+SlideNote beat:318 face:3 pos:-1.032257
+LongNote beat:330 face:2 key:1 end:337
+LongNote beat:322 face:3 key:2 end:329
+LongNote beat:338 face:4 key:1 end:345
+LongNote beat:346 face:1 key:2 end:354
+SlideNote beat:50 face:2 pos:2.176165
+SlideNote beat:52 face:3 pos:-2.25532
+LongNote beat:110 face:1 key:2 end:113

@@ -1,0 +1,57 @@
+exrave chart file v1
+
+Title Dear My Puppy
+Artist Shiha
+
+== BPMData ==
+InitalBPM 170
+Offset 0.0
+
+
+== NoteData ==
+NormalNote beat:0 face:3 key:2
+NormalNote beat:8 face:3 key:2
+NormalNote beat:72 face:3 key:2
+NormalNote beat:80 face:3 key:2
+NormalNote beat:88 face:3 key:1
+NormalNote beat:96 face:3 key:2
+NormalNote beat:104 face:3 key:2
+NormalNote beat:144 face:3 key:1
+NormalNote beat:184 face:3 key:2
+NormalNote beat:200 face:3 key:2
+NormalNote beat:208 face:3 key:1
+NormalNote beat:16 face:3 key:2
+NormalNote beat:24 face:3 key:1
+NormalNote beat:28 face:3 key:2
+NormalNote beat:32 face:3 key:2
+NormalNote beat:40 face:3 key:2
+NormalNote beat:48 face:3 key:2
+NormalNote beat:56 face:3 key:1
+NormalNote beat:60 face:3 key:2
+NormalNote beat:64 face:3 key:1
+NormalNote beat:92 face:2 key:2
+NormalNote beat:112 face:3 key:2
+NormalNote beat:120 face:4 key:2
+NormalNote beat:124 face:4 key:1
+NormalNote beat:128 face:3 key:2
+NormalNote beat:136 face:4 key:1
+NormalNote beat:152 face:3 key:2
+NormalNote beat:156 face:4 key:1
+NormalNote beat:160 face:3 key:2
+NormalNote beat:168 face:3 key:1
+NormalNote beat:176 face:3 key:2
+NormalNote beat:188 face:4 key:1
+LongNote beat:192 face:3 key:2 end:199
+SlideNote beat:202 face:3 pos:2.318182
+SlideNote beat:203 face:3 pos:0.8732388
+SlideNote beat:204 face:3 pos:-0.6415104
+SlideNote beat:205 face:3 pos:-2.71875
+NormalNote beat:206 face:3 key:2
+NormalNote beat:211 face:3 key:2
+NormalNote beat:212 face:3 key:2
+NormalNote beat:214 face:3 key:1
+NormalNote beat:216 face:3 key:2
+NormalNote beat:216 face:3 key:1
+NormalNote beat:220 face:3 key:2
+NormalNote beat:220 face:3 key:1
+NormalNote beat:224 face:3 key:2

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4f081d9ff23c856429b7b5efc2f29144
+timeCreated: 1545050371
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: exrave
+  fontNames:
+  - exrave
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e11611391524e11499c99d089e4fb1ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
